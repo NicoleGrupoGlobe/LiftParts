@@ -1,7 +1,7 @@
 import React from 'react'
 import logo from '../../assets/LogoLiftParts.svg'
 
-export default function Navbar({ activeCategoryGroup, setActiveCategoryGroup, cartCount, onCartClick, searchQuery, setSearchQuery }) {
+export default function Navbar({ activeCategoryGroup, setActiveCategoryGroup, cartCount, onCartClick }) {
   function toggleGroup(group) {
     setActiveCategoryGroup(activeCategoryGroup === group ? null : group)
   }
@@ -32,17 +32,7 @@ export default function Navbar({ activeCategoryGroup, setActiveCategoryGroup, ca
           </span>
         </nav>
 
-        <div className="navbar__search">
-          <span className="navbar__search-icon">🔍</span>
-          <input
-            type="search"
-            placeholder="Buscar producto, SKU…"
-            value={searchQuery}
-            onChange={e => setSearchQuery(e.target.value)}
-            autoComplete="off"
-          />
-          <button type="button">Buscar</button>
-        </div>
+        <div className="navbar__spacer" />
 
         <button className="cart-btn" onClick={onCartClick} aria-label="Carrito de compras">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">

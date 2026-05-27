@@ -793,6 +793,15 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
 .quick-filters {
   margin-bottom: 20px;
 }
+.quick-filters__row {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+.quick-filters__left {
+  flex: 1;
+  min-width: 0;
+}
 .quick-filters__header {
   display: flex;
   align-items: center;
@@ -816,6 +825,14 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
   flex-wrap: wrap;
   gap: 8px;
 }
+.qf-search {
+  flex-shrink: 0;
+  max-width: 320px;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+.navbar__spacer { flex: 1; }
 .brand-pill {
   border: 1px solid var(--border);
   background: #fff;

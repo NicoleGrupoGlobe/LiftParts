@@ -40,14 +40,14 @@ export default function App() {
         setActiveCategoryGroup={setActiveCategoryGroup}
         cartCount={cart.cartCount}
         onCartClick={() => setCartOpen(true)}
-        searchQuery={searchQuery}
-        setSearchQuery={setSearchQuery}
       />
       <main className="catalog-section" id="catalogo" aria-live="polite">
         <QuickFilters
           products={productsData}
           selectedBrands={selectedBrands}
           onBrandToggle={handleBrandToggle}
+          searchQuery={searchQuery}
+          setSearchQuery={setSearchQuery}
         />
         <p className="result-count">
           Mostrando <strong>{filtered.length}</strong> {filtered.length === 1 ? 'producto' : 'productos'}

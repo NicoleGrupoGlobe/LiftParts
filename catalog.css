@@ -310,6 +310,7 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
   /* 2-line clamp */
   display: -webkit-box;
   -webkit-line-clamp: 2;
+  line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
   line-height: 1.5;
@@ -629,7 +630,7 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
   -moz-appearance: textfield;
 }
 .quantity-selector input::-webkit-outer-spin-button,
-.quantity-selector input::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; }
+.quantity-selector input::-webkit-inner-spin-button { -webkit-appearance: none; appearance: none; margin: 0; }
 
 /* ── Cart Drawer ───────────────────────────────────────────── */
 .cart-backdrop {

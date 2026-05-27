@@ -98,7 +98,7 @@ def leer_productos(df):
                 "brand":         marca,
                 "category":      category,
                 "categoryGroup": category_group,
-                "image":         "",
+                "image":         f"/images/{sku}.jpg",
                 "stock":         0,
             }
 

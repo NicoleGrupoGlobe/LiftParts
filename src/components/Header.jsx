@@ -25,18 +25,6 @@ export default function Header({ activeCategoryGroup, products, activeCategory, 
             />
             <button type="button" aria-label="Buscar">Buscar</button>
           </div>
-          <div className="filter-pills" role="group" aria-label="Filtrar por categoría">
-            {categories.map(cat => (
-              <button
-                key={cat}
-                className={`pill${activeCategory === cat ? ' active' : ''}`}
-                onClick={() => setActiveCategory(cat)}
-                aria-pressed={activeCategory === cat}
-              >
-                {cat === 'all' ? 'Todos' : cat}
-              </button>
-            ))}
-          </div>
         </div>
       </div>
     </section>

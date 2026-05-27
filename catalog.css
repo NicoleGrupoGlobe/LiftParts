@@ -42,11 +42,11 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
   position: sticky;
   top: 0;
   z-index: 100;
-  background: #fff;
+  background: #2d2d2d;
   height: 60px;
   display: flex;
   align-items: stretch;
-  border-bottom: 1px solid var(--border);
+  border-bottom: none;
 }
 .navbar__logo-block {
   background: #2d2d2d;
@@ -74,7 +74,7 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
 .nav-group-link {
   font-size: .875rem;
   font-weight: 500;
-  color: var(--text);
+  color: rgba(255,255,255,.75);
   cursor: pointer;
   padding-bottom: 2px;
   border-bottom: 2px solid transparent;
@@ -82,8 +82,8 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
   transition: border-color var(--transition), color var(--transition);
   user-select: none;
 }
-.nav-group-link:hover { color: var(--accent); }
-.nav-group-link.active { border-bottom-color: var(--text); color: var(--text); }
+.nav-group-link:hover { color: #fff; }
+.nav-group-link.active { border-bottom-color: #fff; color: #fff; }
 .navbar__search {
   flex: 1;
   display: flex;
@@ -424,7 +424,7 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
 /* ── Cart button & badge ───────────────────────────────────── */
 .cart-btn {
   position: relative;
-  color: var(--text);
+  color: rgba(255,255,255,.85);
   padding: 6px 8px;
   border-radius: 6px;
   transition: color var(--transition), background var(--transition);
@@ -432,7 +432,7 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
   align-items: center;
   flex-shrink: 0;
 }
-.cart-btn:hover { background: var(--surface); }
+.cart-btn:hover { color: #fff; background: rgba(255,255,255,.1); }
 .cart-badge {
   position: absolute;
   top: -2px;

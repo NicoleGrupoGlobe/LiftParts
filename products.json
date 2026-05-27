@@ -1,0 +1,62 @@
+[
+  {
+    "id": "001",
+    "name": "Botonera de Llamada Simple",
+    "sku": "SKU000000001",
+    "category": "Botoneras",
+    "categoryGroup": "Ascensores",
+    "brand": "Schindler",
+    "stock": 12,
+    "description": "Botonera de llamada de un piso para ascensores estándar. Acabado en acero inoxidable con iluminación LED. Compatible con sistemas de control modernos y legacy.",
+    "tags": ["#84D0C", "#84D0E", "#BOTONERA"],
+    "image": "images/001.jpg"
+  },
+  {
+    "id": "002",
+    "name": "Panel de Operación de Cabina",
+    "sku": "SKU000000002",
+    "category": "Paneles",
+    "categoryGroup": "Ascensores",
+    "brand": "KONE",
+    "stock": 5,
+    "description": "Panel de operación interior para cabina de ascensor. Incluye botonera de pisos, alarma, comunicación de emergencia y indicador de posición. Acabado premium.",
+    "tags": ["#PANEL", "#CABINA", "#84D0F"],
+    "image": "images/002.jpg"
+  },
+  {
+    "id": "003",
+    "name": "Motor de Tracción 10 HP",
+    "sku": "SKU000000003",
+    "category": "Motores",
+    "categoryGroup": "Escaleras Mecánicas",
+    "brand": "Otis",
+    "stock": 0,
+    "description": "Motor de tracción trifásico de 10 HP para escaleras mecánicas. Alta eficiencia energética, operación silenciosa, diseñado para ciclos de trabajo intensivos.",
+    "tags": ["#MOTOR", "#TRACCION", "#10HP"],
+    "image": "images/003.jpg"
+  },
+  {
+    "id": "004",
+    "name": "Variador de Frecuencia VF-2000",
+    "sku": "SKU000000004",
+    "category": "Electrónica",
+    "categoryGroup": "Ascensores",
+    "brand": "ThyssenKrupp",
+    "stock": 3,
+    "description": "Variador de frecuencia para control de velocidad de motores de ascensor. Arranque suave, frenado regenerativo y diagnóstico integrado. Rango 5–30 HP.",
+    "tags": ["#VARIADOR", "#VF2000", "#ELECTRONICA"],
+    "image": "images/004.jpg"
+  },
+  {
+    "id": "005",
+    "name": "Selector de Pisos Digital",
+    "sku": "SKU000000005",
+    "category": "Botoneras",
+    "categoryGroup": "Escaleras Mecánicas",
+    "brand": "Mitsubishi",
+    "stock": 8,
+    "description": "Selector de pisos digital con pantalla TFT de 3.5 pulgadas. Muestra número de piso, dirección y carga. Instalación en montante o panel de cabina.",
+    "tags": ["#SELECTOR", "#DIGITAL", "#84D1A"],
+    "image": "images/005.jpg"
+  }
+]

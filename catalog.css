@@ -42,52 +42,90 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
   position: sticky;
   top: 0;
   z-index: 100;
-  background: var(--nav-bg);
-  color: var(--nav-text);
-  height: 64px;
+  background: #fff;
+  height: 60px;
+  display: flex;
+  align-items: stretch;
+  border-bottom: 1px solid var(--border);
+}
+.navbar__logo-block {
+  background: #2d2d2d;
+  height: 100%;
+  padding: 0 20px;
   display: flex;
   align-items: center;
-  box-shadow: 0 2px 8px rgba(0,0,0,.25);
+  flex-shrink: 0;
 }
+.navbar__logo-block img { height: 32px; width: auto; }
 .navbar__inner {
-  width: 100%;
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 0 24px;
+  flex: 1;
   display: flex;
   align-items: center;
-  justify-content: space-between;
   gap: 24px;
+  padding: 0 24px;
+  overflow: hidden;
 }
-.navbar__logo {
-  font-size: 1.125rem;
-  font-weight: 700;
-  letter-spacing: .04em;
-  color: var(--nav-text);
-  white-space: nowrap;
+.navbar__nav-center {
   display: flex;
+  gap: 20px;
   align-items: center;
-  gap: 10px;
+  flex-shrink: 0;
 }
-.navbar__logo span.accent { color: var(--accent); }
-.navbar__logo img { height: 36px; width: auto; }
-
-.navbar__nav {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  list-style: none;
-}
-.navbar__nav a {
-  padding: 6px 14px;
-  border-radius: 6px;
-  font-size: .9rem;
+.nav-group-link {
+  font-size: .875rem;
   font-weight: 500;
-  color: rgba(255,255,255,.8);
-  transition: color var(--transition), background var(--transition);
+  color: var(--text);
+  cursor: pointer;
+  padding-bottom: 2px;
+  border-bottom: 2px solid transparent;
+  white-space: nowrap;
+  transition: border-color var(--transition), color var(--transition);
+  user-select: none;
 }
-.navbar__nav a:hover { color: #fff; background: rgba(255,255,255,.1); }
-.navbar__nav a.active { color: #fff; }
+.nav-group-link:hover { color: var(--accent); }
+.nav-group-link.active { border-bottom-color: var(--text); color: var(--text); }
+.navbar__search {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: #fff;
+  max-width: 440px;
+}
+.navbar__search-icon {
+  padding: 0 10px;
+  font-size: .9rem;
+  color: var(--muted);
+  flex-shrink: 0;
+}
+.navbar__search input {
+  flex: 1;
+  border: none;
+  outline: none;
+  font-family: inherit;
+  font-size: .875rem;
+  color: var(--text);
+  background: transparent;
+  padding: 8px 0;
+  min-width: 0;
+}
+.navbar__search input::placeholder { color: var(--muted); }
+.navbar__search button {
+  padding: 8px 16px;
+  background: #f3f4f6;
+  color: var(--text);
+  font-size: .875rem;
+  font-weight: 500;
+  border-left: 1px solid var(--border);
+  white-space: nowrap;
+  flex-shrink: 0;
+  font-family: inherit;
+  cursor: pointer;
+  transition: background var(--transition);
+}
+.navbar__search button:hover { background: var(--border); }
 
 /* ── Hero / Search header ──────────────────────────────────── */
 .hero {
@@ -381,45 +419,19 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
   margin-top: 12px;
 }
 
-/* ── Navbar center nav ─────────────────────────────────────── */
-.navbar__inner {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-.navbar__nav-center {
-  display: flex;
-  gap: 8px;
-}
-.nav-group-btn {
-  padding: 6px 16px;
-  font-size: .9rem;
-  font-weight: 500;
-  color: rgba(255,255,255,.75);
-  background: none;
-  border: none;
-  border-bottom: 2px solid transparent;
-  cursor: pointer;
-  transition: color var(--transition), border-color var(--transition);
-  font-family: inherit;
-}
-.nav-group-btn:hover { color: #fff; }
-.nav-group-btn.active {
-  color: #fff;
-  border-bottom-color: var(--accent);
-}
 
 /* ── Cart button & badge ───────────────────────────────────── */
 .cart-btn {
   position: relative;
-  color: rgba(255,255,255,.85);
+  color: var(--text);
   padding: 6px 8px;
   border-radius: 6px;
   transition: color var(--transition), background var(--transition);
   display: flex;
   align-items: center;
+  flex-shrink: 0;
 }
-.cart-btn:hover { color: #fff; background: rgba(255,255,255,.1); }
+.cart-btn:hover { background: var(--surface); }
 .cart-badge {
   position: absolute;
   top: -2px;

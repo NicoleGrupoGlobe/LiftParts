@@ -41,6 +41,8 @@ export default function App() {
         setActiveCategoryGroup={setActiveCategoryGroup}
         cartCount={cart.cartCount}
         onCartClick={() => setCartOpen(true)}
+        searchQuery={searchQuery}
+        setSearchQuery={setSearchQuery}
       />
       <Header
         activeCategoryGroup={activeCategoryGroup}

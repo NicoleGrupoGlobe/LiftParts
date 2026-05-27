@@ -6,7 +6,7 @@ import ProductModal from './components/ProductModal'
 import CartDrawer from './components/CartDrawer'
 import Footer from './components/Footer'
 import useCart from './hooks/useCart'
-import productsData from '../products.json'
+import useProducts from './hooks/useProducts'
 
 export default function App() {
   const [activeCategoryGroup, setActiveCategoryGroup] = useState(null)
@@ -16,6 +16,7 @@ export default function App() {
   const [cartOpen, setCartOpen] = useState(false)
   const [selectedProduct, setSelectedProduct] = useState(null)
   const cart = useCart()
+  const { products: productsData, loading } = useProducts()
 
   function handleBrandToggle(brand) {
     setSelectedBrands(prev =>
@@ -24,7 +25,7 @@ export default function App() {
   }
 
   const filtered = productsData.filter(p => {
-    const matchGroup = !activeCategoryGroup || p.categoryGroup === activeCategoryGroup
+    const matchGroup = !activeCategoryGroup || p.categoryGroups.includes(activeCategoryGroup)
     const matchCategory = activeCategory === 'all' || p.category === activeCategory
     const matchBrand = selectedBrands.length === 0 || selectedBrands.includes(p.brand)
     const q = searchQuery.toLowerCase().trim()

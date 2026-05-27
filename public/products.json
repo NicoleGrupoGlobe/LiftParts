@@ -1,0 +1,62 @@
+[
+  {
+    "id": "001",
+    "sku": "SKU000000001",
+    "name": "Botonera de Llamada Simple",
+    "partNumber": "",
+    "brand": "Schindler",
+    "category": "Botoneras",
+    "categoryGroup": "Ascensores",
+    "categoryGroups": ["Ascensores"],
+    "image": "",
+    "stock": 0
+  },
+  {
+    "id": "002",
+    "sku": "SKU000000002",
+    "name": "Panel de Operación de Cabina",
+    "partNumber": "",
+    "brand": "KONE",
+    "category": "Paneles",
+    "categoryGroup": "Ascensores",
+    "categoryGroups": ["Ascensores"],
+    "image": "",
+    "stock": 0
+  },
+  {
+    "id": "003",
+    "sku": "SKU000000003",
+    "name": "Motor de Tracción 10 HP",
+    "partNumber": "",
+    "brand": "Otis",
+    "category": "Motores",
+    "categoryGroup": "Escaleras Mecánicas",
+    "categoryGroups": ["Escaleras Mecánicas"],
+    "image": "",
+    "stock": 0
+  },
+  {
+    "id": "004",
+    "sku": "SKU000000004",
+    "name": "Variador de Frecuencia VF-2000",
+    "partNumber": "",
+    "brand": "ThyssenKrupp",
+    "category": "Electrónica",
+    "categoryGroup": "Ascensores",
+    "categoryGroups": ["Ascensores"],
+    "image": "",
+    "stock": 0
+  },
+  {
+    "id": "005",
+    "sku": "SKU000000005",
+    "name": "Selector de Pisos Digital",
+    "partNumber": "",
+    "brand": "Mitsubishi",
+    "category": "Botoneras",
+    "categoryGroup": "Escaleras Mecánicas",
+    "categoryGroups": ["Escaleras Mecánicas"],
+    "image": "",
+    "stock": 0
+  }
+]

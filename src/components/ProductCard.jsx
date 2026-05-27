@@ -12,6 +12,7 @@ export default function ProductCard({ product: p, onCardClick, onAddToCart }) {
       <div className="card__body">
         <h3 className="card__name">{p.name}</h3>
         <p className="card__sku">{p.sku}</p>
+        {p.partNumber && <p className="card__partnumber">P/N: {p.partNumber}</p>}
         <div className="card__tags">
           <span className="tag">{p.brand}</span>
         </div>

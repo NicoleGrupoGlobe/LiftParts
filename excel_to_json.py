@@ -131,12 +131,12 @@ def main():
     print_headers(df)  # always show for verification
 
     productos = leer_productos(df)
-    print(f"  → {len(productos)} productos procesados.")
+    print(f"  -> {len(productos)} productos procesados.")
 
     os.makedirs(os.path.dirname(OUTPUT_JSON), exist_ok=True)
     with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
         json.dump(productos, f, ensure_ascii=False, indent=2)
-    print(f"✓ public/products.json generado ({len(productos)} productos).")
+    print(f"OK public/products.json generado ({len(productos)} productos).")
 
 
 if __name__ == "__main__":

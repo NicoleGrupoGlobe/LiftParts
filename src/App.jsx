@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import Navbar from './components/Navbar'
-import Header from './components/Header'
 import QuickFilters from './components/QuickFilters'
 import ProductCard from './components/ProductCard'
 import ProductModal from './components/ProductModal'
@@ -41,14 +40,6 @@ export default function App() {
         setActiveCategoryGroup={setActiveCategoryGroup}
         cartCount={cart.cartCount}
         onCartClick={() => setCartOpen(true)}
-        searchQuery={searchQuery}
-        setSearchQuery={setSearchQuery}
-      />
-      <Header
-        activeCategoryGroup={activeCategoryGroup}
-        products={productsData}
-        activeCategory={activeCategory}
-        setActiveCategory={setActiveCategory}
         searchQuery={searchQuery}
         setSearchQuery={setSearchQuery}
       />

@@ -8,8 +8,7 @@ export default function QuickFilters({ products, selectedBrands, onBrandToggle, 
       <div className="quick-filters__row">
         <div className="quick-filters__left">
           <div className="quick-filters__header">
-            <span className="quick-filters__title">Filtros rápidos</span>
-            <span className="quick-filters__label">MARCAS</span>
+            <span className="quick-filters__title">Filtrar por marca</span>
           </div>
           <div className="quick-filters__pills">
             {brands.map(brand => (

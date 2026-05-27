@@ -15,7 +15,7 @@ export default function ProductCard({ product: p, onCardClick, onAddToCart }) {
         <div className="card__tags">
           <span className="tag">{p.brand}</span>
         </div>
-<button
+      <button
           className="card__cta cta-cotizar"
           onClick={e => { e.stopPropagation(); onAddToCart() }}
         >

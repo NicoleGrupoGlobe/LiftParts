@@ -7,7 +7,7 @@
     "brand": "Otis",
     "category": "LPASE",
     "categoryGroup": "",
-    "image": "/images/LPASE-10001.jpg",
+    "image": "/images/LPASE-10001.png",
     "stock": 0,
     "categoryGroups": [
       "Ascensores",
@@ -22,7 +22,7 @@
     "brand": "Step",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10002.jpg",
+    "image": "/images/LPASE-10002.png",
     "stock": 0
   },
   {
@@ -33,7 +33,7 @@
     "brand": "Kone",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10003.jpg",
+    "image": "/images/LPASE-10003.png",
     "stock": 0
   },
   {
@@ -44,7 +44,7 @@
     "brand": "Yaskawa",
     "category": "LPASE",
     "categoryGroup": "",
-    "image": "/images/LPASE-10004.jpg",
+    "image": "/images/LPASE-10004.png",
     "stock": 0,
     "categoryGroups": [
       "Ascensores",
@@ -59,7 +59,7 @@
     "brand": "Monarch",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10005.jpg",
+    "image": "/images/LPASE-10005.png",
     "stock": 0
   },
   {
@@ -70,7 +70,7 @@
     "brand": "Otis",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10006.jpg",
+    "image": "/images/LPASE-10006.png",
     "stock": 0
   },
   {
@@ -81,7 +81,7 @@
     "brand": "Orona",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10007.jpg",
+    "image": "/images/LPASE-10007.png",
     "stock": 0
   },
   {
@@ -92,7 +92,7 @@
     "brand": "Kone",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10008N.jpg",
+    "image": "/images/LPASE-10008N.png",
     "stock": 0
   },
   {
@@ -103,7 +103,7 @@
     "brand": "Kone",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10008U.jpg",
+    "image": "/images/LPASE-10008U.png",
     "stock": 0
   },
   {
@@ -114,7 +114,7 @@
     "brand": "Kone",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10008S.jpg",
+    "image": "/images/LPASE-10008S.png",
     "stock": 0
   },
   {
@@ -125,7 +125,7 @@
     "brand": "Kone",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10009U.jpg",
+    "image": "/images/LPASE-10009U.png",
     "stock": 0
   },
   {
@@ -136,7 +136,7 @@
     "brand": "Kone",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10009N.jpg",
+    "image": "/images/LPASE-10009N.png",
     "stock": 0
   },
   {
@@ -147,7 +147,7 @@
     "brand": "Kone",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10009B.jpg",
+    "image": "/images/LPASE-10009B.png",
     "stock": 0
   },
   {
@@ -158,7 +158,7 @@
     "brand": "",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10152.jpg",
+    "image": "/images/LPASE-10152.png",
     "stock": 0
   },
   {
@@ -169,7 +169,7 @@
     "brand": "Otis",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10011.jpg",
+    "image": "/images/LPASE-10011.png",
     "stock": 0
   },
   {
@@ -180,7 +180,7 @@
     "brand": "",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10012.jpg",
+    "image": "/images/LPASE-10012.png",
     "stock": 0
   },
   {
@@ -191,7 +191,7 @@
     "brand": "Otis",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10013.jpg",
+    "image": "/images/LPASE-10013.png",
     "stock": 0
   },
   {
@@ -202,7 +202,7 @@
     "brand": "",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10014.jpg",
+    "image": "/images/LPASE-10014.png",
     "stock": 0
   },
   {
@@ -213,7 +213,7 @@
     "brand": "Mitsubishi",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10015NC.jpg",
+    "image": "/images/LPASE-10015NC.png",
     "stock": 0
   },
   {
@@ -224,7 +224,7 @@
     "brand": "Mitsubishi",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10015NO.jpg",
+    "image": "/images/LPASE-10015NO.png",
     "stock": 0
   },
   {
@@ -235,7 +235,7 @@
     "brand": "Schindler",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10016.jpg",
+    "image": "/images/LPASE-10016.png",
     "stock": 0
   },
   {
@@ -246,7 +246,7 @@
     "brand": "Schindler",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10017.jpg",
+    "image": "/images/LPASE-10017.png",
     "stock": 0
   },
   {
@@ -257,7 +257,7 @@
     "brand": "Fermator",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10018.jpg",
+    "image": "/images/LPASE-10018.png",
     "stock": 0
   },
   {
@@ -268,7 +268,7 @@
     "brand": "Fermator",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10019.jpg",
+    "image": "/images/LPASE-10019.png",
     "stock": 0
   },
   {
@@ -279,7 +279,7 @@
     "brand": "Thyssen",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10020.jpg",
+    "image": "/images/LPASE-10020.png",
     "stock": 0
   },
   {
@@ -290,7 +290,7 @@
     "brand": "Thyssen",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10021.jpg",
+    "image": "/images/LPASE-10021.png",
     "stock": 0
   },
   {
@@ -301,7 +301,7 @@
     "brand": "Thyssen",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10022.jpg",
+    "image": "/images/LPASE-10022.png",
     "stock": 0
   },
   {
@@ -312,7 +312,7 @@
     "brand": "Otis",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10023R.jpg",
+    "image": "/images/LPASM-10023R.png",
     "stock": 0
   },
   {
@@ -323,7 +323,7 @@
     "brand": "Otis",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10023L.jpg",
+    "image": "/images/LPASM-10023L.png",
     "stock": 0
   },
   {
@@ -334,7 +334,7 @@
     "brand": "Fermator",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10024R.jpg",
+    "image": "/images/LPASM-10024R.png",
     "stock": 0
   },
   {
@@ -345,7 +345,7 @@
     "brand": "Fermator",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10024L.jpg",
+    "image": "/images/LPASM-10024L.png",
     "stock": 0
   },
   {
@@ -356,7 +356,7 @@
     "brand": "Fermator",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10025R.jpg",
+    "image": "/images/LPASM-10025R.png",
     "stock": 0
   },
   {
@@ -367,7 +367,7 @@
     "brand": "Fermator",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10025L.jpg",
+    "image": "/images/LPASM-10025L.png",
     "stock": 0
   },
   {
@@ -378,7 +378,7 @@
     "brand": "Schindler",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10026R.jpg",
+    "image": "/images/LPASM-10026R.png",
     "stock": 0
   },
   {
@@ -389,7 +389,7 @@
     "brand": "Schindler",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10026L.jpg",
+    "image": "/images/LPASM-10026L.png",
     "stock": 0
   },
   {
@@ -400,7 +400,7 @@
     "brand": "Mitsubishi",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10027.jpg",
+    "image": "/images/LPASM-10027.png",
     "stock": 0
   },
   {
@@ -411,7 +411,7 @@
     "brand": "Schindler",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10028.jpg",
+    "image": "/images/LPASM-10028.png",
     "stock": 0
   },
   {
@@ -422,7 +422,7 @@
     "brand": "Thyssen",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10029/49X40MM.jpg",
+    "image": "/images/LPASM-10029/49X40MM.png",
     "stock": 0
   },
   {
@@ -433,7 +433,7 @@
     "brand": "Thyssen",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10029/57X40MM.jpg",
+    "image": "/images/LPASM-10029/57X40MM.png",
     "stock": 0
   },
   {
@@ -444,7 +444,7 @@
     "brand": "Thyssen",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10030/40X50MM.jpg",
+    "image": "/images/LPASM-10030/40X50MM.png",
     "stock": 0
   },
   {
@@ -455,7 +455,7 @@
     "brand": "Thyssen",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10030/40X42MM.jpg",
+    "image": "/images/LPASM-10030/40X42MM.png",
     "stock": 0
   },
   {
@@ -466,7 +466,7 @@
     "brand": "Otis",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10031.jpg",
+    "image": "/images/LPASM-10031.png",
     "stock": 0
   },
   {
@@ -477,7 +477,7 @@
     "brand": "Canny",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10032.jpg",
+    "image": "/images/LPASM-10032.png",
     "stock": 0
   },
   {
@@ -488,7 +488,7 @@
     "brand": "",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10033.jpg",
+    "image": "/images/LPASE-10033.png",
     "stock": 0
   },
   {
@@ -499,7 +499,7 @@
     "brand": "Kone",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10034.jpg",
+    "image": "/images/LPASE-10034.png",
     "stock": 0
   },
   {
@@ -510,7 +510,7 @@
     "brand": "Thyssen",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10035R.jpg",
+    "image": "/images/LPASM-10035R.png",
     "stock": 0
   },
   {
@@ -521,7 +521,7 @@
     "brand": "Thyssen",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10035L.jpg",
+    "image": "/images/LPASM-10035L.png",
     "stock": 0
   },
   {
@@ -532,7 +532,7 @@
     "brand": "Bernstein",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10036.jpg",
+    "image": "/images/LPASE-10036.png",
     "stock": 0
   },
   {
@@ -543,7 +543,7 @@
     "brand": "Schindler",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10037.jpg",
+    "image": "/images/LPASE-10037.png",
     "stock": 0
   },
   {
@@ -554,7 +554,7 @@
     "brand": "LG",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10038.jpg",
+    "image": "/images/LPASE-10038.png",
     "stock": 0
   },
   {
@@ -565,7 +565,7 @@
     "brand": "",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10039.jpg",
+    "image": "/images/LPASM-10039.png",
     "stock": 0
   },
   {
@@ -576,7 +576,7 @@
     "brand": "Schindler",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10040.jpg",
+    "image": "/images/LPASM-10040.png",
     "stock": 0
   },
   {
@@ -587,7 +587,7 @@
     "brand": "",
     "category": "LPASE",
     "categoryGroup": "",
-    "image": "/images/LPASE-10041.jpg",
+    "image": "/images/LPASE-10041.png",
     "stock": 0,
     "categoryGroups": [
       "Ascensores",
@@ -602,7 +602,7 @@
     "brand": "Schneider",
     "category": "LPASE",
     "categoryGroup": "",
-    "image": "/images/LPASE-10042.jpg",
+    "image": "/images/LPASE-10042.png",
     "stock": 0,
     "categoryGroups": [
       "Ascensores",
@@ -617,7 +617,7 @@
     "brand": "Weco",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10043.jpg",
+    "image": "/images/LPASE-10043.png",
     "stock": 0
   },
   {
@@ -628,7 +628,7 @@
     "brand": "Weco",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10044.jpg",
+    "image": "/images/LPASE-10044.png",
     "stock": 0
   },
   {
@@ -639,7 +639,7 @@
     "brand": "",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10045.jpg",
+    "image": "/images/LPASM-10045.png",
     "stock": 0
   },
   {
@@ -650,7 +650,7 @@
     "brand": "",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10046.jpg",
+    "image": "/images/LPASM-10046.png",
     "stock": 0
   },
   {
@@ -661,7 +661,7 @@
     "brand": "",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10047.jpg",
+    "image": "/images/LPASE-10047.png",
     "stock": 0
   },
   {
@@ -672,7 +672,7 @@
     "brand": "Schindler",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10048.jpg",
+    "image": "/images/LPESM-10048.png",
     "stock": 0
   },
   {
@@ -683,7 +683,7 @@
     "brand": "Schindler",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10049.jpg",
+    "image": "/images/LPESM-10049.png",
     "stock": 0
   },
   {
@@ -694,7 +694,7 @@
     "brand": "",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10050.jpg",
+    "image": "/images/LPESM-10050.png",
     "stock": 0
   },
   {
@@ -705,7 +705,7 @@
     "brand": "Schindler",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10051.jpg",
+    "image": "/images/LPESM-10051.png",
     "stock": 0
   },
   {
@@ -716,7 +716,7 @@
     "brand": "Schindler",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10052.jpg",
+    "image": "/images/LPESM-10052.png",
     "stock": 0
   },
   {
@@ -727,7 +727,7 @@
     "brand": "",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10053.jpg",
+    "image": "/images/LPESM-10053.png",
     "stock": 0
   },
   {
@@ -738,7 +738,7 @@
     "brand": "",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10054.jpg",
+    "image": "/images/LPESM-10054.png",
     "stock": 0
   },
   {
@@ -749,7 +749,7 @@
     "brand": "",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10055.jpg",
+    "image": "/images/LPESM-10055.png",
     "stock": 0
   },
   {
@@ -760,7 +760,7 @@
     "brand": "",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10056.jpg",
+    "image": "/images/LPESM-10056.png",
     "stock": 0
   },
   {
@@ -771,7 +771,7 @@
     "brand": "Schindler",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10057.jpg",
+    "image": "/images/LPESM-10057.png",
     "stock": 0
   },
   {
@@ -782,7 +782,7 @@
     "brand": "Schindler",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10058.jpg",
+    "image": "/images/LPESM-10058.png",
     "stock": 0
   },
   {
@@ -793,7 +793,7 @@
     "brand": "Schindler",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10059.jpg",
+    "image": "/images/LPESM-10059.png",
     "stock": 0
   },
   {
@@ -804,7 +804,7 @@
     "brand": "Schindler",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10060.jpg",
+    "image": "/images/LPESM-10060.png",
     "stock": 0
   },
   {
@@ -815,7 +815,7 @@
     "brand": "",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10061.jpg",
+    "image": "/images/LPESM-10061.png",
     "stock": 0
   },
   {
@@ -826,7 +826,7 @@
     "brand": "Fujitec",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10062.jpg",
+    "image": "/images/LPESM-10062.png",
     "stock": 0
   },
   {
@@ -837,7 +837,7 @@
     "brand": "Schindler",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10063.jpg",
+    "image": "/images/LPESM-10063.png",
     "stock": 0
   },
   {
@@ -848,7 +848,7 @@
     "brand": "Thyssen",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10064.jpg",
+    "image": "/images/LPESM-10064.png",
     "stock": 0
   },
   {
@@ -859,7 +859,7 @@
     "brand": "Thyssen",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10065.jpg",
+    "image": "/images/LPESM-10065.png",
     "stock": 0
   },
   {
@@ -870,7 +870,7 @@
     "brand": "Otis",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10066L.jpg",
+    "image": "/images/LPESM-10066L.png",
     "stock": 0
   },
   {
@@ -881,7 +881,7 @@
     "brand": "Otis",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10066R.jpg",
+    "image": "/images/LPESM-10066R.png",
     "stock": 0
   },
   {
@@ -892,7 +892,7 @@
     "brand": "Otis",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10067L.jpg",
+    "image": "/images/LPESM-10067L.png",
     "stock": 0
   },
   {
@@ -903,7 +903,7 @@
     "brand": "Otis",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10067R.jpg",
+    "image": "/images/LPESM-10067R.png",
     "stock": 0
   },
   {
@@ -914,7 +914,7 @@
     "brand": "",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10068ID/SI.jpg",
+    "image": "/images/LPESM-10068ID/SI.png",
     "stock": 0
   },
   {
@@ -925,7 +925,7 @@
     "brand": "",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10068SD/II.jpg",
+    "image": "/images/LPESM-10068SD/II.png",
     "stock": 0
   },
   {
@@ -936,7 +936,7 @@
     "brand": "Schindler",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10069.jpg",
+    "image": "/images/LPESM-10069.png",
     "stock": 0
   },
   {
@@ -947,7 +947,7 @@
     "brand": "Schindler",
     "category": "LPESM",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESM-10070.jpg",
+    "image": "/images/LPESM-10070.png",
     "stock": 0
   },
   {
@@ -958,7 +958,7 @@
     "brand": "",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10071.jpg",
+    "image": "/images/LPASE-10071.png",
     "stock": 0
   },
   {
@@ -969,7 +969,7 @@
     "brand": "Schindler",
     "category": "LPESE",
     "categoryGroup": "Escaleras Mecánicas",
-    "image": "/images/LPESE-10072.jpg",
+    "image": "/images/LPESE-10072.png",
     "stock": 0
   },
   {
@@ -980,7 +980,7 @@
     "brand": "Kone",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10073.jpg",
+    "image": "/images/LPASM-10073.png",
     "stock": 0
   },
   {
@@ -991,7 +991,7 @@
     "brand": "Kone",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10074.jpg",
+    "image": "/images/LPASM-10074.png",
     "stock": 0
   },
   {
@@ -1002,7 +1002,7 @@
     "brand": "Kone",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10075.jpg",
+    "image": "/images/LPASM-10075.png",
     "stock": 0
   },
   {
@@ -1013,7 +1013,7 @@
     "brand": "Kone",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10076.jpg",
+    "image": "/images/LPASM-10076.png",
     "stock": 0
   },
   {
@@ -1024,7 +1024,7 @@
     "brand": "Kone",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10077.jpg",
+    "image": "/images/LPASM-10077.png",
     "stock": 0
   },
   {
@@ -1035,7 +1035,7 @@
     "brand": "Kone",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10078.jpg",
+    "image": "/images/LPASM-10078.png",
     "stock": 0
   },
   {
@@ -1046,7 +1046,7 @@
     "brand": "Kone",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10079.jpg",
+    "image": "/images/LPASM-10079.png",
     "stock": 0
   },
   {
@@ -1057,7 +1057,7 @@
     "brand": "Kone",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10080.jpg",
+    "image": "/images/LPASM-10080.png",
     "stock": 0
   },
   {
@@ -1068,7 +1068,7 @@
     "brand": "Fermator",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10081.jpg",
+    "image": "/images/LPASM-10081.png",
     "stock": 0
   },
   {
@@ -1079,7 +1079,7 @@
     "brand": "Fermator",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10082.jpg",
+    "image": "/images/LPASM-10082.png",
     "stock": 0
   },
   {
@@ -1090,7 +1090,7 @@
     "brand": "Fermator",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10083.jpg",
+    "image": "/images/LPASM-10083.png",
     "stock": 0
   },
   {
@@ -1101,7 +1101,7 @@
     "brand": "Fermator",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10084.jpg",
+    "image": "/images/LPASM-10084.png",
     "stock": 0
   },
   {
@@ -1112,7 +1112,7 @@
     "brand": "Fermator",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10018.jpg",
+    "image": "/images/LPASE-10018.png",
     "stock": 0
   },
   {
@@ -1123,7 +1123,7 @@
     "brand": "Monarch",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10085.jpg",
+    "image": "/images/LPASE-10085.png",
     "stock": 0
   },
   {
@@ -1134,7 +1134,7 @@
     "brand": "LG",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10086.jpg",
+    "image": "/images/LPASE-10086.png",
     "stock": 0
   },
   {
@@ -1145,7 +1145,7 @@
     "brand": "Otis",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10087.jpg",
+    "image": "/images/LPASE-10087.png",
     "stock": 0
   },
   {
@@ -1156,7 +1156,7 @@
     "brand": "Schindler",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10088.jpg",
+    "image": "/images/LPASM-10088.png",
     "stock": 0
   },
   {
@@ -1167,7 +1167,7 @@
     "brand": "Thyssen",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10030/40X50MM.jpg",
+    "image": "/images/LPASM-10030/40X50MM.png",
     "stock": 0
   },
   {
@@ -1178,7 +1178,7 @@
     "brand": "Thyssen",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10089.jpg",
+    "image": "/images/LPASM-10089.png",
     "stock": 0
   },
   {
@@ -1189,7 +1189,7 @@
     "brand": "Thyssen",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10029 _ 49x40mm.jpg",
+    "image": "/images/LPASM-10029 _ 49x40mm.png",
     "stock": 0
   },
   {
@@ -1200,7 +1200,7 @@
     "brand": "Fermator",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10090.jpg",
+    "image": "/images/LPASM-10090.png",
     "stock": 0
   },
   {
@@ -1211,7 +1211,7 @@
     "brand": "Thyssen",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10091.jpg",
+    "image": "/images/LPASM-10091.png",
     "stock": 0
   },
   {
@@ -1222,7 +1222,7 @@
     "brand": "",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10092.jpg",
+    "image": "/images/LPASE-10092.png",
     "stock": 0
   },
   {
@@ -1233,7 +1233,7 @@
     "brand": "",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10023.jpg",
+    "image": "/images/LPASE-10023.png",
     "stock": 0
   },
   {
@@ -1244,7 +1244,7 @@
     "brand": "Fermator",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10093.jpg",
+    "image": "/images/LPASM-10093.png",
     "stock": 0
   },
   {
@@ -1255,7 +1255,7 @@
     "brand": "",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10094.jpg",
+    "image": "/images/LPASM-10094.png",
     "stock": 0
   },
   {
@@ -1266,7 +1266,7 @@
     "brand": "",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10095.jpg",
+    "image": "/images/LPASM-10095.png",
     "stock": 0
   },
   {
@@ -1277,7 +1277,7 @@
     "brand": "",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10096.jpg",
+    "image": "/images/LPASM-10096.png",
     "stock": 0
   },
   {
@@ -1288,7 +1288,7 @@
     "brand": "Bernstein",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10097.jpg",
+    "image": "/images/LPASE-10097.png",
     "stock": 0
   },
   {
@@ -1299,7 +1299,7 @@
     "brand": "",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10146.jpg",
+    "image": "/images/LPASE-10146.png",
     "stock": 0
   },
   {
@@ -1310,7 +1310,7 @@
     "brand": "",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10098.jpg",
+    "image": "/images/LPASE-10098.png",
     "stock": 0
   },
   {
@@ -1321,7 +1321,7 @@
     "brand": "Selcom",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10099.jpg",
+    "image": "/images/LPASE-10099.png",
     "stock": 0
   },
   {
@@ -1332,7 +1332,7 @@
     "brand": "Selcom",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10100.jpg",
+    "image": "/images/LPASE-10100.png",
     "stock": 0
   },
   {
@@ -1343,7 +1343,7 @@
     "brand": "Fermator",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10101.jpg",
+    "image": "/images/LPASE-10101.png",
     "stock": 0
   },
   {
@@ -1354,7 +1354,7 @@
     "brand": "Fermator",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10102.jpg",
+    "image": "/images/LPASE-10102.png",
     "stock": 0
   },
   {
@@ -1365,7 +1365,7 @@
     "brand": "Fermator",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10103.jpg",
+    "image": "/images/LPASE-10103.png",
     "stock": 0
   },
   {
@@ -1376,7 +1376,7 @@
     "brand": "Fermator",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10104.jpg",
+    "image": "/images/LPASE-10104.png",
     "stock": 0
   },
   {
@@ -1387,7 +1387,7 @@
     "brand": "Fermator",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10105.jpg",
+    "image": "/images/LPASE-10105.png",
     "stock": 0
   },
   {
@@ -1398,7 +1398,7 @@
     "brand": "",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10106.jpg",
+    "image": "/images/LPASE-10106.png",
     "stock": 0
   },
   {
@@ -1409,7 +1409,7 @@
     "brand": "Schmersal",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10107.jpg",
+    "image": "/images/LPASE-10107.png",
     "stock": 0
   },
   {
@@ -1420,7 +1420,7 @@
     "brand": "Fermator",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10108.jpg",
+    "image": "/images/LPASM-10108.png",
     "stock": 0
   },
   {
@@ -1431,7 +1431,7 @@
     "brand": "Fermator",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10109.jpg",
+    "image": "/images/LPASM-10109.png",
     "stock": 0
   },
   {
@@ -1442,7 +1442,7 @@
     "brand": "Fermator",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10110.jpg",
+    "image": "/images/LPASM-10110.png",
     "stock": 0
   },
   {
@@ -1453,7 +1453,7 @@
     "brand": "Thyssen",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10111.jpg",
+    "image": "/images/LPASM-10111.png",
     "stock": 0
   },
   {
@@ -1464,7 +1464,7 @@
     "brand": "Thyssen",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10112.jpg",
+    "image": "/images/LPASE-10112.png",
     "stock": 0
   },
   {
@@ -1475,7 +1475,7 @@
     "brand": "",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10113.jpg",
+    "image": "/images/LPASM-10113.png",
     "stock": 0
   },
   {
@@ -1486,7 +1486,7 @@
     "brand": "",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10114.jpg",
+    "image": "/images/LPASM-10114.png",
     "stock": 0
   },
   {
@@ -1497,7 +1497,7 @@
     "brand": "Fermator",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10115.jpg",
+    "image": "/images/LPASM-10115.png",
     "stock": 0
   },
   {
@@ -1508,7 +1508,7 @@
     "brand": "",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10116.jpg",
+    "image": "/images/LPASM-10116.png",
     "stock": 0
   },
   {
@@ -1519,7 +1519,7 @@
     "brand": "",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10117.jpg",
+    "image": "/images/LPASM-10117.png",
     "stock": 0
   },
   {
@@ -1530,7 +1530,7 @@
     "brand": "Fermator",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10118.jpg",
+    "image": "/images/LPASM-10118.png",
     "stock": 0
   },
   {
@@ -1541,7 +1541,7 @@
     "brand": "Yaskawa",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10119.jpg",
+    "image": "/images/LPASE-10119.png",
     "stock": 0
   },
   {
@@ -1552,7 +1552,7 @@
     "brand": "",
     "category": "LPASE",
     "categoryGroup": "",
-    "image": "/images/LPASE-10149.jpg",
+    "image": "/images/LPASE-10149.png",
     "stock": 0,
     "categoryGroups": [
       "Ascensores",
@@ -1567,7 +1567,7 @@
     "brand": "",
     "category": "LPASE",
     "categoryGroup": "",
-    "image": "/images/LPASE-10120.jpg",
+    "image": "/images/LPASE-10120.png",
     "stock": 0,
     "categoryGroups": [
       "Ascensores",
@@ -1582,7 +1582,7 @@
     "brand": "Schneider",
     "category": "LPASE",
     "categoryGroup": "",
-    "image": "/images/LPASE-10042.jpg",
+    "image": "/images/LPASE-10042.png",
     "stock": 0,
     "categoryGroups": [
       "Ascensores",
@@ -1597,7 +1597,7 @@
     "brand": "Schneider",
     "category": "LPASE",
     "categoryGroup": "",
-    "image": "/images/LPASE-10121.jpg",
+    "image": "/images/LPASE-10121.png",
     "stock": 0,
     "categoryGroups": [
       "Ascensores",
@@ -1612,7 +1612,7 @@
     "brand": "Schneider",
     "category": "LPASE",
     "categoryGroup": "",
-    "image": "/images/LPASE-10122.jpg",
+    "image": "/images/LPASE-10122.png",
     "stock": 0,
     "categoryGroups": [
       "Ascensores",
@@ -1627,7 +1627,7 @@
     "brand": "Schneider",
     "category": "LPASE",
     "categoryGroup": "",
-    "image": "/images/LPASE-10123.jpg",
+    "image": "/images/LPASE-10123.png",
     "stock": 0,
     "categoryGroups": [
       "Ascensores",
@@ -1642,7 +1642,7 @@
     "brand": "Switching",
     "category": "LPASE",
     "categoryGroup": "",
-    "image": "/images/LPASE-10124.jpg",
+    "image": "/images/LPASE-10124.png",
     "stock": 0,
     "categoryGroups": [
       "Ascensores",
@@ -1657,7 +1657,7 @@
     "brand": "Switching",
     "category": "LPASE",
     "categoryGroup": "",
-    "image": "/images/LPASE-10125.jpg",
+    "image": "/images/LPASE-10125.png",
     "stock": 0,
     "categoryGroups": [
       "Ascensores",
@@ -1672,7 +1672,7 @@
     "brand": "Switching",
     "category": "LPASE",
     "categoryGroup": "",
-    "image": "/images/LPASE-10126.jpg",
+    "image": "/images/LPASE-10126.png",
     "stock": 0,
     "categoryGroups": [
       "Ascensores",
@@ -1687,7 +1687,7 @@
     "brand": "Switching",
     "category": "LPASE",
     "categoryGroup": "",
-    "image": "/images/LPASE-10127.jpg",
+    "image": "/images/LPASE-10127.png",
     "stock": 0,
     "categoryGroups": [
       "Ascensores",
@@ -1702,7 +1702,7 @@
     "brand": "Fuji",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10128.jpg",
+    "image": "/images/LPASE-10128.png",
     "stock": 0
   },
   {
@@ -1713,7 +1713,7 @@
     "brand": "",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10129.jpg",
+    "image": "/images/LPASE-10129.png",
     "stock": 0
   },
   {
@@ -1724,7 +1724,7 @@
     "brand": "Otis",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10130.jpg",
+    "image": "/images/LPASE-10130.png",
     "stock": 0
   },
   {
@@ -1735,7 +1735,7 @@
     "brand": "Sigma",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10131.jpg",
+    "image": "/images/LPASE-10131.png",
     "stock": 0
   },
   {
@@ -1746,7 +1746,7 @@
     "brand": "Sigma",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10132.jpg",
+    "image": "/images/LPASE-10132.png",
     "stock": 0
   },
   {
@@ -1757,7 +1757,7 @@
     "brand": "Schindler",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10133.jpg",
+    "image": "/images/LPASE-10133.png",
     "stock": 0
   },
   {
@@ -1768,7 +1768,7 @@
     "brand": "",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10134.jpg",
+    "image": "/images/LPASE-10134.png",
     "stock": 0
   },
   {
@@ -1779,7 +1779,7 @@
     "brand": "",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10135.jpg",
+    "image": "/images/LPASE-10135.png",
     "stock": 0
   },
   {
@@ -1790,7 +1790,7 @@
     "brand": "Mitsubishi",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10015NC.jpg",
+    "image": "/images/LPASE-10015NC.png",
     "stock": 0
   },
   {
@@ -1801,7 +1801,7 @@
     "brand": "Mitsubishi",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10015NO.jpg",
+    "image": "/images/LPASE-10015NO.png",
     "stock": 0
   },
   {
@@ -1812,7 +1812,7 @@
     "brand": "Thyssen",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10020.jpg",
+    "image": "/images/LPASE-10020.png",
     "stock": 0
   },
   {
@@ -1823,7 +1823,7 @@
     "brand": "Thyssen",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10136.jpg",
+    "image": "/images/LPASE-10136.png",
     "stock": 0
   },
   {
@@ -1834,7 +1834,7 @@
     "brand": "Panasonic",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10137.jpg",
+    "image": "/images/LPASE-10137.png",
     "stock": 0
   },
   {
@@ -1845,7 +1845,7 @@
     "brand": "Mitsubishi",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10027.jpg",
+    "image": "/images/LPASM-10027.png",
     "stock": 0
   },
   {
@@ -1856,7 +1856,7 @@
     "brand": "Otis",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10031.jpg",
+    "image": "/images/LPASM-10031.png",
     "stock": 0
   },
   {
@@ -1867,7 +1867,7 @@
     "brand": "Schindler",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10028.jpg",
+    "image": "/images/LPASM-10028.png",
     "stock": 0
   },
   {
@@ -1878,7 +1878,7 @@
     "brand": "Mitsubishi",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10138P.jpg",
+    "image": "/images/LPASE-10138P.png",
     "stock": 0
   },
   {
@@ -1889,7 +1889,7 @@
     "brand": "Mitsubishi",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10138S.jpg",
+    "image": "/images/LPASE-10138S.png",
     "stock": 0
   },
   {
@@ -1900,7 +1900,7 @@
     "brand": "Schindler",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10139M.jpg",
+    "image": "/images/LPASE-10139M.png",
     "stock": 0
   },
   {
@@ -1911,7 +1911,7 @@
     "brand": "Schindler",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10139F.jpg",
+    "image": "/images/LPASE-10139F.png",
     "stock": 0
   },
   {
@@ -1922,7 +1922,7 @@
     "brand": "Fermator",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10022.jpg",
+    "image": "/images/LPASE-10022.png",
     "stock": 0
   },
   {
@@ -1933,7 +1933,7 @@
     "brand": "",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10140.jpg",
+    "image": "/images/LPASM-10140.png",
     "stock": 0
   },
   {
@@ -1944,7 +1944,7 @@
     "brand": "",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10141.jpg",
+    "image": "/images/LPASM-10141.png",
     "stock": 0
   },
   {
@@ -1955,7 +1955,7 @@
     "brand": "",
     "category": "LPASM",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASM-10142.jpg",
+    "image": "/images/LPASM-10142.png",
     "stock": 0
   },
   {
@@ -1966,7 +1966,7 @@
     "brand": "Otis",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10143L.jpg",
+    "image": "/images/LPASE-10143L.png",
     "stock": 0
   },
   {
@@ -1977,7 +1977,7 @@
     "brand": "",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10144.jpg",
+    "image": "/images/LPASE-10144.png",
     "stock": 0
   },
   {
@@ -1988,7 +1988,7 @@
     "brand": "",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10145.jpg",
+    "image": "/images/LPASE-10145.png",
     "stock": 0
   },
   {
@@ -1999,7 +1999,7 @@
     "brand": "Mitsubishi",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10010A.jpg",
+    "image": "/images/LPASE-10010A.png",
     "stock": 0
   },
   {
@@ -2010,7 +2010,7 @@
     "brand": "Mitsubishi",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10010B.jpg",
+    "image": "/images/LPASE-10010B.png",
     "stock": 0
   },
   {
@@ -2021,7 +2021,7 @@
     "brand": "",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10147.jpg",
+    "image": "/images/LPASE-10147.png",
     "stock": 0
   },
   {
@@ -2032,7 +2032,7 @@
     "brand": "",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10148.jpg",
+    "image": "/images/LPASE-10148.png",
     "stock": 0
   },
   {
@@ -2043,7 +2043,7 @@
     "brand": "",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10150.jpg",
+    "image": "/images/LPASE-10150.png",
     "stock": 0
   },
   {
@@ -2054,7 +2054,7 @@
     "brand": "",
     "category": "LPASE",
     "categoryGroup": "Ascensores",
-    "image": "/images/LPASE-10151.jpg",
+    "image": "/images/LPASE-10151.png",
     "stock": 0
   }
 ]

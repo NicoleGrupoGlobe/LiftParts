@@ -353,6 +353,7 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
 .hero__inner--two-col {
   display: flex;
   align-items: flex-start;
+  justify-content: space-between;
   gap: 40px;
   max-width: 1280px;
   margin: 0 auto;
@@ -762,6 +763,65 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
   padding: 14px;
   border-radius: var(--radius);
   font-size: .95rem;
+}
+
+/* ── Brand badge bottom (card) ─────────────────────────────── */
+.brand-badge-bottom {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 2px 10px;
+  font-size: 0.72rem;
+  color: var(--muted);
+  display: inline-block;
+  margin-top: 6px;
+}
+
+/* ── Quick filters ─────────────────────────────────────────── */
+.quick-filters {
+  margin-bottom: 20px;
+}
+.quick-filters__header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+.quick-filters__title {
+  font-size: .9rem;
+  font-weight: 700;
+  color: var(--text);
+}
+.quick-filters__label {
+  font-size: .72rem;
+  font-weight: 600;
+  letter-spacing: .08em;
+  color: var(--muted);
+  text-transform: uppercase;
+}
+.quick-filters__pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.brand-pill {
+  border: 1px solid var(--border);
+  background: #fff;
+  color: var(--text);
+  border-radius: 20px;
+  padding: 6px 14px;
+  font-size: 0.8rem;
+  cursor: pointer;
+  font-family: inherit;
+  transition: all var(--transition);
+}
+.brand-pill:hover {
+  border-color: #1a2b5e;
+  color: #1a2b5e;
+}
+.brand-pill.active {
+  background: #1a2b5e;
+  border-color: #1a2b5e;
+  color: #fff;
 }
 
 /* ── Solicitud badge ───────────────────────────────────────── */

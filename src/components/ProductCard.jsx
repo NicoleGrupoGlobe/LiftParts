@@ -17,12 +17,12 @@ export default function ProductCard({ product: p, onCardClick, onAddToCart }) {
             {p.tags.map(t => <span key={t} className="tag">{t}</span>)}
           </div>
         )}
-        <span className="brand-badge">{p.brand}</span>
+        <span className="brand-badge-bottom">{p.brand}</span>
         <button
           className="card__cta cta-cotizar"
           onClick={e => { e.stopPropagation(); onAddToCart() }}
         >
-          {inStock ? 'Cotizar' : 'Solicitar'}
+          Cotizar
         </button>
       </div>
     </article>

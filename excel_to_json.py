@@ -26,9 +26,9 @@ COL_EQUIPO  = 12  # M — "EQUIP0"
 COL_MARCA   = 13  # N — "Marca"
 
 EQUIP_MAP = {
-    "ASC":   "Ascensores",
-    "ESC":   "Escaleras Mecánicas",
-    "AMBOS": "Ambos",
+    "ASCENSOR":                  "Ascensores",
+    "ESCALA MECANICA":           "Escaleras Mecánicas",
+    "ESCALA MECANICA - ASCENSOR": None,   # → categoryGroups ambos
 }
 
 
@@ -80,7 +80,9 @@ def leer_productos(df):
         marca       = clean(safe_col(row, COL_MARCA))
 
         equip_key      = equip_raw.upper().strip()
-        category_group = EQUIP_MAP.get(equip_key, "")
+        mapped         = EQUIP_MAP.get(equip_key)
+        category_group = mapped if mapped else ""
+        is_ambos       = equip_key in EQUIP_MAP and EQUIP_MAP[equip_key] is None
 
         for i, sku in enumerate(skus):
             if not sku:
@@ -100,7 +102,7 @@ def leer_productos(df):
                 "stock":         0,
             }
 
-            if equip_key == "AMBOS":
+            if is_ambos:
                 entry["categoryGroups"] = ["Ascensores", "Escaleras Mecánicas"]
 
             productos.append(entry)

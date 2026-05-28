@@ -15,7 +15,7 @@ except ImportError:
     sys.exit("ERROR: pandas no instalado. Ejecuta: pip install pandas openpyxl")
 
 BASE_DIR    = os.path.dirname(os.path.abspath(__file__))
-EXCEL_FILE  = os.path.join(BASE_DIR, "LiftParts Final MVP.xlsx")
+EXCEL_FILE  = os.path.join(BASE_DIR, "LiftParts Final MVP (1).xlsx")
 OUTPUT_JSON = os.path.join(BASE_DIR, "public", "products.json")
 IMAGES_DIR  = os.path.join(BASE_DIR, "assets", "imagesSKU")
 

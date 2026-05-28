@@ -15,15 +15,29 @@ except ImportError:
     sys.exit("ERROR: pandas no instalado. Ejecuta: pip install pandas openpyxl")
 
 BASE_DIR    = os.path.dirname(os.path.abspath(__file__))
-EXCEL_FILE  = os.path.join(BASE_DIR, "LiftParts BD Mod + Marca .xlsx")
+EXCEL_FILE  = os.path.join(BASE_DIR, "LiftParts Final MVP.xlsx")
 OUTPUT_JSON = os.path.join(BASE_DIR, "public", "products.json")
+IMAGES_DIR  = os.path.join(BASE_DIR, "assets", "imagesSKU")
+
+# Mapa SKU → ruta web de imagen (detecta extensión real)
+def _build_image_map():
+    img_map = {}
+    if not os.path.isdir(IMAGES_DIR):
+        return img_map
+    for fname in os.listdir(IMAGES_DIR):
+        name, ext = os.path.splitext(fname)
+        if ext.lower() in (".jpeg", ".jpg", ".png"):
+            img_map[name] = f"/images/{fname}"
+    return img_map
+
+IMAGE_MAP = _build_image_map()
 
 # Column indices (0-based) — verify by running with --headers flag
-COL_SKU     = 1   # B — "Códigos Lift Parts SKU"
-COL_NAME    = 2   # C — "DESCRIPCIÓN"
-COL_PARTNUM = 9   # J — "Part Number Fabricante"
-COL_EQUIPO  = 12  # M — "EQUIP0"
-COL_MARCA   = 13  # N — "Marca"
+COL_SKU     = 0   # A — "Códigos Lift Parts SKU"
+COL_NAME    = 1   # B — "DESCRIPCIÓN"
+COL_PARTNUM = 8   # I — "Part Number Fabricante"
+COL_EQUIPO  = 11  # L — "EQUIP0"
+COL_MARCA   = 12  # M — "Marca"
 
 EQUIP_MAP = {
     "ASCENSOR":                  "Ascensores",
@@ -98,7 +112,7 @@ def leer_productos(df):
                 "brand":         marca,
                 "category":      category,
                 "categoryGroup": category_group,
-                "image":         f"/images/{sku}.png",
+                "image":         IMAGE_MAP.get(sku, ""),
                 "stock":         0,
             }
 
